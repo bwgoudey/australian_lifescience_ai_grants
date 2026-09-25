@@ -1,6 +1,6 @@
-# Grant AI × molecular/life-science analysis, 2022–2025
+# Analysis of Australian AI and molecular life-science funding from NHMRC, MRFF and ARC grants
 
-This package contains the complete reproducible analysis used to classify ARC, NHMRC and MRFF grants and summarise AI + molecular/related life-science funding over 2022–2025.
+This package contains the complete reproducible analysis used to classify ARC, NHMRC and MRFF grants and analyses how Australian AI and molecular life-science have been funding in the past decade or so. 
 
 ## Main outputs
 
