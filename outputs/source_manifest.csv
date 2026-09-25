@@ -1,0 +1,4 @@
+source,filename,sha256,bytes,year_field,funding_field
+ARC,ARC_Grants_2015_2026_merged.csv,ef3f2dbe79330cb8d5bd05598534a5f360f78c768a486d3e465ee7760602c848,25519718,funding-commencement-year,announced-funding-amount
+NHMRC,NHMRC_Grants_2013_2025_merged.csv,3d497d4b798e0ab16199f69b8bcbfacef325d2b11a9f9f0265dc510679e00953,20832819,source_year,total_amount_awarded
+MRFF,medical-research-future-fund-mrff-grant-recipients.xlsx,38fc88b9b85cf72ea16a7c42df68a59c882f20e4f9ae43834bcd0ad49075fa46,1326355,Contract Start Date -> year,Total Grant Value
